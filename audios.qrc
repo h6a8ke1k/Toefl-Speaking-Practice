@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Speaking_Beep.mp3</file>
+        <file>res/Speaking_RecordingTime.mp3</file>
+        <file>res/Speaking_Preparation_time.mp3</file>
+    </qresource>
+</RCC>
